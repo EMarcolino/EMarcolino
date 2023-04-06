@@ -1,14 +1,13 @@
 
-![](https://visitor-badge.glitch.me/badge?page_id=EMarcolino) 
 ## **Olá, sou Estevan Marcolino** 😃
-
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
 
 <!--[Anurag's GitHub stats]-->
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EMarcolino&show_icons=true&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMarcolino&layout=compact&langs_count=10&theme=radical"/>
 </div>
+
+![](https://visitor-badge.glitch.me/badge?page_id=EMarcolino) 
 
 #
 
