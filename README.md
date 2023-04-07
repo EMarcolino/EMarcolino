@@ -1,7 +1,7 @@
 
 ## **Olá, sou Estevan Marcolino** 😃
 
-<!--[Anurag's GitHub stats]-->
+<!--[GitHub stats]-->
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EMarcolino&show_icons=true&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMarcolino&layout=compact&langs_count=10&theme=radical"/>
